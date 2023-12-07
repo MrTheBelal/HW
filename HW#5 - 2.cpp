@@ -3,7 +3,7 @@ using namespace std;
 
 main() {
     char word ;
-    cout << "Please inter your word: ";
+    cout << "Please Enter your word: ";
     cin >> word ;
     switch (word)
     {
